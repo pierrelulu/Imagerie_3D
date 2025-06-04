@@ -8,7 +8,10 @@ __pycache__/
 
 # Distribution / packaging
 bundle_images/
+bundle_image_laet_nobg/
 calib_images/
+calib_image_laet_nobg/
+videos/
 *.ply
 .Python
 .idea/
